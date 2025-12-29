@@ -1,0 +1,3 @@
+<screen name="ConfigScreen" position="fill" flags="wfNoBorder">
+    <panel name="ConfigScreenTemplate"/>
+</screen>

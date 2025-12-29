@@ -1,0 +1,9 @@
+<screen name="ScreenSeason" position="0,0" size="1920,1080">
+    <panel name="Screen_Window_Full_Backdrop" />
+    <panel position="20,20" size="e-40,e">
+		<widget font="Regular;32" name="searchinfo" position="30,90" size="1860,40" transparent="1"/>
+		<widget font="Regular;30" itemHeight="40" name="list" position="30,150" scrollbarMode="showOnDemand" size="1000,400" transparent="1"/>
+		<widget alphatest="blend" name="cover" position="1170,150" size="720,720"/>
+		<widget font="Regular;28" name="overview" position="30,600" size="1000,400" transparent="1"/>
+	</panel>
+</screen>
