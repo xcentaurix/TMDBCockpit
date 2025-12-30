@@ -20,6 +20,7 @@
 
 
 import os
+from PIL import Image
 from Tools.LoadPixmap import LoadPixmap
 from twisted.internet import reactor, threads
 from .Debug import logger
@@ -80,9 +81,24 @@ class Picture(WebRequestsAsync):
         if download_id in self.pending_downloads:
             download_info = self.pending_downloads[download_id]
             pixmap = download_info['pixmap']
+            atype = download_info['atype']
 
             # Clean up the pending download
             del self.pending_downloads[download_id]
+
+			# if type is 'backdrop' construct overlay in code
+            if atype == 'backdrop':
+                # load original jpg
+                img = Image.open(path).convert("RGBA")
+
+				# construct dim layer
+                dim = Image.new("RGBA", img.size, (0, 0, 0, 160))  # 160 ~57 oppacity
+
+				# merge dim layer with the image
+                out = Image.alpha_composite(img, dim)
+
+				# save merged image to original path
+                out.convert("RGB").save(path, quality=95)
 
             # Display the picture with the correct pixmap (now on main thread)
             self.displayPictureDirectly(pixmap, path)
