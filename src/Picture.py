@@ -90,13 +90,10 @@ class Picture(WebRequestsAsync):
             if atype == 'backdrop':
                 # load original jpg
                 img = Image.open(path).convert("RGBA")
-
 				# construct dim layer
-                dim = Image.new("RGBA", img.size, (0, 0, 0, 160))  # 160 ~57 oppacity
-
+                dim = Image.new("RGBA", img.size, (0, 0, 0, 160))  # 160 ~57% oppacity
 				# merge dim layer with the image
                 out = Image.alpha_composite(img, dim)
-
 				# save merged image to original path
                 out.convert("RGB").save(path, quality=95)
 
