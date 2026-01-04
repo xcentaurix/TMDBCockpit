@@ -12,6 +12,8 @@ def getSkinPath(file_name):
     logger.info("file_name: %s", file_name)
     primary_skin = config.skin.primary_skin.value.split("/")[0]
     logger.debug("primary_skin: %s", primary_skin)
-    skin_path = Path(__file__).parent / "skin" / primary_skin / file_name
+    skin_path = Path(__file__).parent / "skin" / "default" / file_name
+    if primary_skin == "E2-DarkOS":
+        skin_path = Path(__file__).parent / "skin" / primary_skin / file_name
     logger.info("skin_path: %s", skin_path)
     return skin_path

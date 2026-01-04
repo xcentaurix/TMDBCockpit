@@ -1,5 +1,5 @@
 # The Movie Database plugin TMDBCockpit
-![Screenshot](TMDBCockpit.png)
+![Screenshot](TMDBCockpit.jpg)
 ## Features
 - Shows detailed movie/tv show information provided by TMDB.
 - Can be invoked thru movie lists (standard, EMC, etc.) or thru yellow or blue key in the EPG lists.
@@ -10,7 +10,6 @@
 
 ## Limitations
 - Is being tested on DM 9XX with OpenVix only
-- Supports E2-DarkOS skin only
 
 ## Languages
 - english

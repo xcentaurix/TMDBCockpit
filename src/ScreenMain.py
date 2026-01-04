@@ -115,13 +115,14 @@ class ScreenMain(Picture, Json, Screen, HelpableScreen):
         self["list"].onSelectionChanged.append(self.onSelectionChanged)
 
     def onSelectionChanged(self):
+        logger.info("...")
         DelayTimer.stopAll()
-        self.showPicture(self["cover"], "cover", "", None)
-        self.showPicture(self["backdrop"], "backdrop", "", None)
+        self["cover"].hide()
+        self["backdrop"].hide()
         if config.plugins.tmdbcockpit.skip_to_movie.value and self.count == 1:
             DelayTimer(10, self.ok)
         else:
-            DelayTimer(100, self.showPictures)
+            DelayTimer(500, self.showPictures)
 
     def onDialogShow(self):
         logger.info("...")
@@ -195,6 +196,7 @@ class ScreenMain(Picture, Json, Screen, HelpableScreen):
                 self["list"].setIndex(0)
 
     def showPictures(self):
+        logger.info("...")
         current = self["list"].getCurrent()
         if current:
             ident = current[1]
@@ -203,8 +205,8 @@ class ScreenMain(Picture, Json, Screen, HelpableScreen):
             self.showPicture(self["cover"], "cover", ident, cover_url)
             self.showPicture(self["backdrop"], "backdrop", ident, backdrop_url)
         else:
-            self.showPicture(self["cover"], "cover", "", None)
-            self.showPicture(self["backdrop"], "backdrop", "", None)
+            self["cover"].hide()
+            self["backdrop"].hide()
 
     def ok(self):
         current = self['list'].getCurrent()

@@ -15,7 +15,7 @@ from .FileUtils import readFile
 
 
 class ScreenConfig(Screen, ConfigListScreen):
-    skin = readFile(getSkinPath("ConfigScreen.xml"))
+    skin = readFile(getSkinPath("ScreenConfig.xml"))
 
     def __init__(self, session):
         Screen.__init__(self, session)

@@ -1,1 +1,1 @@
-SUBDIRS = images E2-DarkOS
+SUBDIRS = images default E2-DarkOS
