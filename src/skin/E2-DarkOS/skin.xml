@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin>
+    <screen name="Progress_1">
+        <panel position="center,center" size="1200,320">
+            <panel name="Screen_1" />
+            <panel position="e-100,e-70" size="74,34">
+                <panel name="BrandLogoTemplate" />
+            </panel>
+            <widget backgroundColor="background2" font="Bold; 36" foregroundColor="white" halign="right" position="e-438,2" render="Label" size="420,64" source="global.CurrentTime" transparent="1" valign="center" zPosition="20">
+                <convert type="ClockToText">Default</convert>
+            </widget>
+            <widget addon="ScreenHeader" connection="Image,Title,ScreenPath" position="20,2" size="e-260,60" titleFont="Bold; 28" titleSingleFont="Bold; 34" pathFont="Bold; 18" titleForegroundColor="yellow" pathForegroundColor="yellow" backgroundColor="background" />
+        </panel>
+    </screen>
+
+    <screen name="Screen_Window_Full_Backdrop">
+        <panel name="Screen_Window_Full" />
+        <panel position="15,75" size="1892,925">
+            <widget name="backdrop" position="0,0" scale="1" size="e,e" zPosition="-9"/>
+        </panel>
+    </screen>
+</skin>

@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "Plugin successfully installed."
+echo "Please restart Enigma2 now!"
+exit 0

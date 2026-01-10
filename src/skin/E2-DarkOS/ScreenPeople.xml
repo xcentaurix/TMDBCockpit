@@ -1,0 +1,11 @@
+<screen name="ScreenPeople" position="0,0" size="1920,1080">
+    <panel name="Screen_Window_Full_Backdrop" />
+    <panel position="20,20" size="e-40,e">
+		<widget font="Bold;28" name="searchinfo" position="5,65" size="1860,40" transparent="1"/>
+        <widget name="cover" position="e-485,115" scale="1" size="480,720" cornerRadius="10"/>
+        <widget source="list" render="Listbox" position="5,115" scrollbarMode="showOnDemand" size="e-505,800"
+                font="Regular;24" itemHeight="40" itemCornerRadius="6" transparent="1">
+		    <convert type="StringList" />
+        </widget>
+	</panel>
+</screen>
