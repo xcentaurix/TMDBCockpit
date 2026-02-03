@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TMDBCockpit\n"
+"POT-Creation-Date: 2023-01-30 16:17+0100\n"
+"PO-Revision-Date: 2023-01-30 16:20+0100\n"
+"Last-Translator: xcentaurix\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../src\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Author:"
+msgstr "Автор:"
+
+msgid "Backdrop saved!"
+msgstr "Фон сохранен!"
+
+msgid "Best rated movies"
+msgstr "Лучшие рейтинговые фильмы"
+
+msgid "Bookmarks"
+msgstr "Закладки"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cancelled"
+msgstr "Отменено"
+
+msgid "Cancelling, please wait"
+msgstr "Отмена, пожалуйста, подождите"
+
+msgid "Check SSL certificate:"
+msgstr "Проверьте SSL-сертификат:"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Copyright"
+msgstr "Авторские права"
+
+msgid "Countries:"
+msgstr "Страны:"
+
+msgid "Cover saved!"
+msgstr "Постер сохранён!"
+
+msgid "Cover saved."
+msgstr "Постер сохранён."
+
+msgid "Crew"
+msgstr "Состав"
+
+msgid "Current movies in cinemas"
+msgstr "Текущие фильмы в кинотеатрах"
+
+msgid "Defaults"
+msgstr "По умолчанию"
+
+msgid "Delete movie EIT file"
+msgstr "Удалить EIT-файл"
+
+msgid "Details"
+msgstr "Подробно"
+
+msgid "Details down"
+msgstr "Подробно вниз"
+
+msgid "Details up"
+msgstr "Подробно вверх"
+
+msgid "Director:"
+msgstr "Режиссёр:"
+
+msgid "Do you want to resume playback at position: %d:%02d:%02d?"
+msgstr "Вы хотите возобновить воспроизведение с позиции: %d:%02d:%02d?"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "EIT file deleted!"
+msgstr "EIT-файл удален!"
+
+msgid "EIT file deleted."
+msgstr "EIT-файл удален."
+
+msgid "EPG Info"
+msgstr "EPG инфо"
+
+msgid "Edit search"
+msgstr "Редактировать поиск"
+
+msgid "End"
+msgstr "Конец"
+
+msgid "Episodes"
+msgstr "Эпизоды"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Genre:"
+msgstr "Жанр:"
+
+msgid "Hide"
+msgstr "Скрыть"
+
+msgid "Known for:"
+msgstr "Известен из:"
+
+msgid "Language:"
+msgstr "Язык:"
+
+msgid "License"
+msgstr "Лицензия"
+
+msgid "Loading default settings will overwrite all settings, really load them?"
+msgstr "Загрузка настроек по умолчанию перезапишет все настройки, действительно загрузить их?"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Movie"
+msgstr "Фильм"
+
+msgid "Movie description saved!"
+msgstr "Описание фильма сохранено!"
+
+msgid "OK"
+msgstr "Ok"
+
+msgid "Overwrite key yellow for TMDB infos in EPGs:"
+msgstr "Перезаписать желтую клавишу для информации TMDB в EPG:"
+
+msgid "Page down"
+msgstr "Листать вниз"
+
+msgid "Page up"
+msgstr "Листать вверх"
+
+msgid "Path does not exist"
+msgstr "Путь не существует"
+
+msgid "Please wait"
+msgstr "Пожалуйста подождите"
+
+msgid "Plugin"
+msgstr "Плагин"
+
+msgid "Popular movies"
+msgstr "Популярные фильмы"
+
+msgid "Popularity"
+msgstr "Популярность"
+
+msgid "Processing"
+msgstr "В обработке"
+
+msgid "Really close without saving settings?"
+msgstr "Закрыть без сохранения настроек?"
+
+msgid "Recommendations"
+msgstr "Рекомендуемые фильмы"
+
+msgid "Restart GUI now?"
+msgstr "Перезапустить GUI сейчас?"
+
+msgid "Runtime:"
+msgstr "Время:"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save movie backdrop"
+msgstr "Сохранить фон"
+
+msgid "Save movie cover"
+msgstr "Сохранить постер"
+
+msgid "Save movie description"
+msgstr "Сохранить описание"
+
+msgid "Search for Movie:"
+msgstr "Поиск фильма:"
+
+msgid "Season"
+msgstr "Сезон"
+
+msgid "Seasons"
+msgstr "Сезоны"
+
+msgid "Select directory"
+msgstr "Выбор каталога"
+
+msgid "Selection down"
+msgstr "вниз"
+
+msgid "Selection up"
+msgstr "вверх"
+
+msgid "Series"
+msgstr "Серии"
+
+msgid "Setup"
+msgstr "Настройки"
+
+msgid "Show details"
+msgstr "Показать детали"
+
+msgid "Show details if single result:"
+msgstr "Показать подробности, если один результат:"
+
+msgid "Similar movies"
+msgstr "Похожие фильмы"
+
+msgid "Skip backward"
+msgstr "Перейти назад"
+
+msgid "Skip forward"
+msgstr "Перейти вперёд"
+
+msgid "Some changes require a GUI restart"
+msgstr "Некоторые изменения требуют перезапуска GUI"
+
+msgid "Stop playback"
+msgstr "Остановить воспроизведение"
+
+msgid "Studio:"
+msgstr "Студия:"
+
+msgid "TMDB Infos ..."
+msgstr "TMDB инфо "
+
+msgid "TMDB:"
+msgstr "TMDB:"
+
+msgid "TMDB: No results for %s"
+msgstr "Нет результатов для %s"
+
+msgid "TMDB: No results found, or does not respond!"
+msgstr "Результатов не найдено или сервер не отвечает!"
+
+msgid "TMDB: Results for %s"
+msgstr "Результаты для: %s"
+
+msgid "TMDB: Server does not respond!"
+msgstr "Сервер не отвечает!"
+
+msgid "Try to find %s in tmdb ..."
+msgstr "Попробуйте найти %s в TMDB ..."
+
+msgid "Upcoming movies"
+msgstr "Предстоящие фильмы"
+
+msgid "Various"
+msgstr "Разное"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Votes:"
+msgstr "Голосов:"
+
+msgid "Year:"
+msgstr "Год:"
+
+msgid "divers"
+msgstr "divers"
+
+msgid "female"
+msgstr "женский"
+
+msgid "male"
+msgstr "мужской"
+
+msgid "min"
+msgstr "мин"
+
+msgid "more ..."
+msgstr "больше ..."
+
+msgid "of"
+msgstr "из"
+
+msgid "page "
+msgstr "страница "
+
+msgid "Skip to movie details for single result:"
+msgstr "Перейти к информации для найденого фильма"
+
+msgid "Yellow key for TMDB infos in EPGs:"
+msgstr "Вывод инфо TMDB жёлтой кнопкой в EPG:"
+
+msgid "Cover resolution:"
+msgstr "Размер постера:"
+
+msgid "Backdrop resolution:"
+msgstr "Размер фоновой заставки:"
+
+msgid "No movie description available"
+msgstr "Описание фильма недоступно"
+
+msgid "Movie description saved."
+msgstr "Описание фильма сохранено."
+
+msgid "No backdrop available"
+msgstr "Нет фоновой заставки"
+
+msgid "Backdrop saved."
+msgstr "Фоновая заставка сохранена."
+
+msgid "No cover available"
+msgstr "Постер недоступен"
+
+msgid "Person"
+msgstr "Персона"
+
+msgid "TMDB: Server does not respond."
+msgstr "Сервер не отвечает."
+
+msgid "File operation results:"
+msgstr "Результат файловых операций:"
+
+msgid "No EIT file available"
+msgstr "EIT-файл недоступен"
+
+msgid "Use internal TMDB API key:"
+msgstr "Используйте внутренний ключ API TMDB:"
+
+msgid "External TMDB API key is not available in:"
+msgstr "Внешний API-ключ TMDB недоступен в:"
+
+msgid "Overview"
+msgstr "Обзор"
+
+msgid "Looking up: %s ..."
+msgstr "Поиск: %s ..."
+
+msgid "No search string specified."
+msgstr "Строка поиска не указана."
+
+msgid "No results for: %s"
+msgstr "Нет результатов для: %s"
+
+msgid "Movie Details"
+msgstr "Подробности"
+
+msgid "Videos"
+msgstr "Видео"
+
+msgid "TMDB videos"
+msgstr "TMDB видео"
+
+msgid "Please select a video"
+msgstr "Пожалуйста, выберите видео"
+
+msgid "Person Details"
+msgstr "Личные данные"
+
+msgid "None"
+msgstr "Нет данных"

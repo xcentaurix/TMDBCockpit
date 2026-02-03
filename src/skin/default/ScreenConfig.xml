@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<screen flags="wfNoFrame" name="ScreenConfig" position="center,center" size="900,600" title="TMDBCockpit Settings">
+	<eLabel backgroundColor="black" position="0,0" size="1920,1080" zPosition="-1"/>
+	<widget enableWrapAround="1" font="Regular;28" itemHeight="40" name="config" position="20,20" scrollbarMode="showOnDemand" size="860,500" transparent="1"/>
+	<widget addon="ColorButtonsSequence" alignment="left" backgroundColor="#00000000" connection="key_red,key_green,key_yellow,key_blue" font="Regular;33" position="150,550" size="430,42" spacing="10" textColors="key_red:#00ff0808,key_green:#0004c81b,key_yellow:#00edf506,key_blue:#00077cf5" transparent="1" zPosition="10"/>
+	<ePixmap alphatest="blend" backgroundColor="#00000000" pixmap="buttons/key_menu.png" position="20,550" size="52,38" transparent="1" zPosition="2"/>
+	<ePixmap alphatest="blend" backgroundColor="#00000000" pixmap="buttons/key_help.png" position="70,550" size="52,38" transparent="1" zPosition="2"/>
+</screen>
