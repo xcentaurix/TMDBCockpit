@@ -1,0 +1,34 @@
+<screen name="ScreenMovie" position="0,0" size="1920,1080">
+	<panel name="Screen_Window_Full_Backdrop" />
+	<panel position="20,20" size="e-40,e">
+		<widget font="Bold;28" name="searchinfo" position="5,65" size="e,40" transparent="1"/>
+		<widget font="Regular;24" name="fulldescription" position="5,115" size="850,780" transparent="1"/>
+		<widget name="cover" position="e-485,115" scale="1" size="480,720" cornerRadius="10"/>
+		<!-- FSK Info Panel -->
+		<panel position="880,240" size="315,145">
+			<widget alphatest="blend" name="star" position="25,0" size="100,100" zPosition="0"/>
+			<widget alphatest="blend" name="fsklogo" position="195,15" size="100,100" scale="1" zPosition="2"/>
+			<widget font="Regular;24" foregroundColor="black" halign="center" name="rating" position="0,40" size="150,25" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" halign="center" name="votes_brackets" position="0,100" size="150,25" transparent="1" zPosition="2"/>
+		</panel>
+		<!-- Movie Details Panel -->
+		<panel position="890,390" size="510,260">
+			<widget font="Regular;24" name="year_txt" position="0,0" size="120,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="year" position="130,0" size="360,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="country_txt" position="0,30" size="120,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="country" position="130,30" size="340,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="runtime_txt" position="0,60" size="120,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="runtime" position="130,60" size="360,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="votes_txt" position="0,90" size="130,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="votes" position="130,90" size="360,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="director_txt" position="0,120" size="120,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="director" position="130,120" size="360,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="author_txt" position="0,150" size="120,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="author" position="130,150" size="360,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="genre_txt" position="0,180" size="100,30" transparent="1"/>
+			<widget font="Regular;24" name="genre" position="130,180" size="360,30" transparent="1" zPosition="2"/>
+			<widget font="Regular;24" name="studio_txt" position="0,210" size="120,30" transparent="1"/>
+			<widget font="Regular;24" name="studio" position="130,210" size="360,30" transparent="1" zPosition="2"/>
+		</panel>
+	</panel>
+</screen>

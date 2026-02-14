@@ -1,0 +1,6 @@
+Description: TMDBCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-tmdbcockpit
+Version: 1.0.9
+Architecture: all
+Depends: python3-requests, enigma2-plugin-skincomponents-e2darkosaddon

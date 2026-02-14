@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TMDBCockpit\n"
+"POT-Creation-Date: 2023-08-27 06:06+0300\n"
+"PO-Revision-Date: 2023-08-27 06:15+0300\n"
+"Last-Translator: ostende \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../src\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+
+msgid "Plugin"
+msgstr "وصلة إضافية"
+
+msgid "Version"
+msgstr "الإصدار"
+
+msgid "Copyright"
+msgstr "حقوق النشر"
+
+msgid "License"
+msgstr "ترخيص"
+
+msgid "End"
+msgstr "نهاية"
+
+msgid "Stop playback"
+msgstr "إيقاف التشغيل"
+
+msgid "Skip forward"
+msgstr "تخطي للأمام"
+
+msgid "Skip backward"
+msgstr "تخطي للخلف"
+
+msgid "EPG Info"
+msgstr "معلومات EPG"
+
+msgid "Do you want to resume playback at position: %d:%02d:%02d?"
+msgstr "هل ترغب في استئناف التشغيل في الموقع: %d:%02d:%02d؟"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Defaults"
+msgstr "الإعدادات الافتراضية"
+
+msgid "Really close without saving settings?"
+msgstr "هل تريد الخروج حقًا بدون حفظ الإعدادات؟"
+
+msgid "Setup"
+msgstr "الإعدادات"
+
+msgid "Loading default settings will overwrite all settings, really load them?"
+msgstr "سيؤدي تحميل الإعدادات الافتراضية إلى استبدال جميع الإعدادات، هل تريد تحميلها حقًا؟"
+
+msgid "Some changes require a GUI restart"
+msgstr "بعض التغييرات تتطلب إعادة تشغيل واجهة المستخدم"
+
+msgid "Restart GUI now?"
+msgstr "هل ترغب في إعادة تشغيل واجهة المستخدم الآن؟"
+
+msgid "Bookmarks"
+msgstr "الإشارات المرجعية"
+
+msgid "Select directory"
+msgstr "اختيار المجلد"
+
+msgid "Path does not exist"
+msgstr "المسار غير موجود"
+
+msgid "Close"
+msgstr "إغلاق"
+
+msgid "Hide"
+msgstr "إخفاء"
+
+msgid "Cancelling, please wait"
+msgstr "إلغاء، الرجاء الانتظار"
+
+msgid "Processing"
+msgstr "جاري المعالجة"
+
+msgid "of"
+msgstr "من"
+
+msgid "Done"
+msgstr "تم"
+
+msgid "Cancelled"
+msgstr "تم الإلغاء"
+
+msgid "Please wait"
+msgstr "يرجى الانتظار"
+
+msgid "min"
+msgstr "دقيقة"
+
+msgid "TMDB Infos ..."
+msgstr "معلومات TMDB ..."
+
+msgid "Save movie description"
+msgstr "حفظ وصف الفيلم"
+
+msgid "Save movie cover"
+msgstr "حفظ غلاف الفيلم"
+
+msgid "Save movie backdrop"
+msgstr "حفظ خلفية الفيلم"
+
+msgid "Save movie backdrop as cover"
+msgstr "حفظ خلفية الفيلم كغلاف"
+
+msgid "File operation results:"
+msgstr "نتائج عملية الملفات:"
+
+msgid "Cover saved."
+msgstr "تم حفظ الغلاف."
+
+msgid "No cover available"
+msgstr "لا يتوفر غلاف"
+
+msgid "Backdrop saved."
+msgstr "تم حفظ الخلفية."
+
+msgid "No backdrop available"
+msgstr "لا توجد خلفية متوفرة"
+
+msgid "Movie description saved."
+msgstr "تم حفظ وصف الفيلم."
+
+msgid "No movie description available"
+msgstr "لا يتوفر وصف للفيلم"
+
+msgid "Various"
+msgstr "متنوع"
+
+msgid "Seasons"
+msgstr "مواسم"
+
+msgid "Episodes"
+msgstr "حلقات"
+
+msgid "Season"
+msgstr "موسم"
+
+msgid "female"
+msgstr "أنثى"
+
+msgid "male"
+msgstr "ذكر"
+
+msgid "divers"
+msgstr "متنوع"
+
+msgid "None"
+msgstr "لا شيء"
+
+msgid "OK"
+msgstr "موافق"
+
+msgid "Language:"
+msgstr "اللغة:"
+
+msgid "Skip to movie details for single result:"
+msgstr "الانتقال إلى تفاصيل الفيلم للنتيجة الواحدة:"
+
+msgid "Yellow key for TMDB infos in EPGs:"
+msgstr "المفتاح الأصفر لمعلومات TMDB في EPGs:"
+
+msgid "Cover resolution:"
+msgstr "دقة الغلاف:"
+
+msgid "Backdrop resolution:"
+msgstr "دقة الخلفية:"
+
+msgid "Overview"
+msgstr "نظرة عامة"
+
+msgid "Exit"
+msgstr "خروج"
+
+msgid "Details"
+msgstr "تفاصيل"
+
+msgid "Edit search"
+msgstr "تحرير البحث"
+
+msgid "more ..."
+msgstr "المزيد ..."
+
+msgid "Show details"
+msgstr "عرض التفاصيل"
+
+msgid "Details down"
+msgstr "تفاصيل لأسفل"
+
+msgid "Details up"
+msgstr "تفاصيل لأعلى"
+
+msgid "Current movies in cinemas"
+msgstr "الأفلام الحالية في دور العرض"
+
+msgid "No search string specified."
+msgstr "لم يتم تحديد سلسلة بحث."
+
+msgid "Looking up: %s ..."
+msgstr "البحث عن: %s ..."
+
+msgid "page"
+msgstr "صفحة"
+
+msgid "No results for: %s"
+msgstr "لا توجد نتائج لـ: %s"
+
+msgid "Upcoming movies"
+msgstr "الأفلام القادمة"
+
+msgid "Popular movies"
+msgstr "الأفلام الشائعة"
+
+msgid "Similar movies"
+msgstr "الأفلام المماثلة"
+
+msgid "Recommendations"
+msgstr "الأفلام الموصى بها"
+
+msgid "Best rated movies"
+msgstr "أعلى تقييم للأفلام"
+
+msgid "Search for Movie:"
+msgstr "البحث عن فيلم:"
+
+msgid "Movie Details"
+msgstr "تفاصيل الفيلم"
+
+msgid "Genre:"
+msgstr "النوع:"
+
+msgid "Votes:"
+msgstr "الأصوات:"
+
+msgid "Runtime:"
+msgstr "المدة:"
+
+msgid "Year:"
+msgstr "السنة:"
+
+msgid "Countries:"
+msgstr "البلدان:"
+
+msgid "Director:"
+msgstr "المخرج:"
+
+msgid "Author:"
+msgstr "الكاتب:"
+
+msgid "Studio:"
+msgstr "الاستوديو:"
+
+msgid "Crew"
+msgstr "الفريق"
+
+msgid "Selection up"
+msgstr "التحديد لأعلى"
+
+msgid "Selection down"
+msgstr "التحديد لأسفل"
+
+msgid "Page up"
+msgstr "الصفحة لأعلى"
+
+msgid "Page down"
+msgstr "الصفحة لأسفل"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Videos"
+msgstr "مقاطع فيديو"
+
+msgid "No search provider registered."
+msgstr "لا توجد مُزودات بحث مُسجلة."
+
+msgid "TMDB videos"
+msgstr "مقاطع فيديو TMDB"
+
+msgid "Please select a video"
+msgstr "الرجاء تحديد فيديو"
+
+msgid "Person Details"
+msgstr "تفاصيل الشخص"
+
+msgid "Popularity"
+msgstr "الشهرة"
+
+msgid "Known for:"
+msgstr "معروف بـ:"
+
+msgid "Movie"
+msgstr "فيلم"
+
+msgid "Series"
+msgstr "مسلسل"
+
+msgid "Person"
+msgstr "شخص"
+
+msgid "TMDBCockpit"
+msgstr "TMDBCockpit"
+
+msgid "Access TMDB movie infos"
+msgstr "الوصول إلى معلومات الأفلام من TMDB"

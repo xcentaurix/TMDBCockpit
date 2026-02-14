@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TMDBCockpit\n"
+"POT-Creation-Date: 2026-01-10 21:51+0100\n"
+"PO-Revision-Date: 2026-01-10 21:54+0100\n"
+"Last-Translator: dream-alpha\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../src\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Save movie description"
+msgstr ""
+
+msgid "Save movie cover"
+msgstr ""
+
+msgid "Save movie backdrop"
+msgstr ""
+
+msgid "Save movie backdrop as cover"
+msgstr ""
+
+msgid "TMDB cover/backdrop"
+msgstr ""
+
+msgid "Please select a function"
+msgstr ""
+
+msgid "Cover saved."
+msgstr ""
+
+msgid "No cover available"
+msgstr ""
+
+msgid "Backdrop saved."
+msgstr ""
+
+msgid "No backdrop available"
+msgstr ""
+
+msgid "Movie description saved."
+msgstr ""
+
+msgid "No movie description available"
+msgstr ""
+
+msgid "Various"
+msgstr ""
+
+msgid "Seasons"
+msgstr ""
+
+msgid "Episodes"
+msgstr ""
+
+msgid "Season"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "male"
+msgstr ""
+
+msgid "divers"
+msgstr ""
+
+msgid "not specified"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Language:"
+msgstr ""
+
+msgid "Skip to movie details for single result:"
+msgstr ""
+
+msgid "Red key for TMDB infos in EPGs:"
+msgstr ""
+
+msgid "Cover resolution:"
+msgstr ""
+
+msgid "Backdrop resolution:"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Edit search"
+msgstr ""
+
+msgid "more ..."
+msgstr ""
+
+msgid "Setup"
+msgstr ""
+
+msgid "Show details"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgid "Details down"
+msgstr ""
+
+msgid "Details up"
+msgstr ""
+
+msgid "Current movies in cinemas"
+msgstr ""
+
+msgid "No search string specified."
+msgstr ""
+
+msgid "Looking up: %s ..."
+msgstr ""
+
+msgid "page"
+msgstr ""
+
+msgid "No results for:"
+msgstr ""
+
+msgid "TMDB Infos"
+msgstr ""
+
+msgid "Upcoming movies"
+msgstr ""
+
+msgid "Popular movies"
+msgstr ""
+
+msgid "Similar movies"
+msgstr ""
+
+msgid "Recommendations"
+msgstr ""
+
+msgid "Best rated movies"
+msgstr ""
+
+msgid "TMDB categories"
+msgstr ""
+
+msgid "Please select a category"
+msgstr ""
+
+msgid "Search for Movie:"
+msgstr ""
+
+msgid "Leave trailer player"
+msgstr ""
+
+msgid "Trailer Player"
+msgstr ""
+
+msgid "Movie Details"
+msgstr ""
+
+msgid "Genre:"
+msgstr ""
+
+msgid "Votes:"
+msgstr ""
+
+msgid "Runtime:"
+msgstr ""
+
+msgid "Year:"
+msgstr ""
+
+msgid "Countries:"
+msgstr ""
+
+msgid "Director:"
+msgstr ""
+
+msgid "Author:"
+msgstr ""
+
+msgid "Studio:"
+msgstr ""
+
+msgid "Crew"
+msgstr ""
+
+msgid "Selection up"
+msgstr ""
+
+msgid "Selection down"
+msgstr ""
+
+msgid "Page up"
+msgstr ""
+
+msgid "Page down"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "No results for: %s"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "No search provider registered."
+msgstr ""
+
+msgid "TMDB videos"
+msgstr ""
+
+msgid "Please select a video"
+msgstr ""
+
+msgid "Trailer playback failed."
+msgstr ""
+
+msgid "Person Details"
+msgstr ""
+
+msgid "Popularity"
+msgstr ""
+
+msgid "Known for:"
+msgstr ""
+
+msgid "Movie"
+msgstr ""
+
+msgid "Series"
+msgstr ""
+
+msgid "Person"
+msgstr ""
+
+msgid "min"
+msgstr ""
+
+msgid "TMDB Infos for current event"
+msgstr ""
+
+msgid "TMDb Search"
+msgstr ""
+
+msgid "TMDBCockpit"
+msgstr ""

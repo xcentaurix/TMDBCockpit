@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TMDBCockpit\n"
+"POT-Creation-Date: 2024-03-05 22:28+0100\n"
+"PO-Revision-Date: 2024-03-05 22:32+0100\n"
+"Last-Translator: Dario Croci <spaeleus@croci.org>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ../../../../../../../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "TMDB Infos ..."
+msgstr "Info TMDB..."
+
+msgid "Save movie description"
+msgstr "Salvare descrizione film"
+
+msgid "Save movie cover"
+msgstr "Salvare cover film"
+
+msgid "Save movie backdrop"
+msgstr "Salvare sfondo film"
+
+msgid "Save movie backdrop as cover"
+msgstr "Salvare sfondo film come cover"
+
+msgid "TMDB cover/backdrop"
+msgstr "Cover/backdrop TMDB"
+
+msgid "Please select a function"
+msgstr "Selezionare una funzione"
+
+msgid "Cover saved."
+msgstr "Cover salvata."
+
+msgid "No cover available"
+msgstr "Nessuna cover disponibile"
+
+msgid "Backdrop saved."
+msgstr "Sfondo salvato."
+
+msgid "No backdrop available"
+msgstr "Nessuno sfondo disponibile"
+
+msgid "Movie description saved."
+msgstr "Descrizione film salvata."
+
+msgid "No movie description available"
+msgstr "Nessuna descrizione disponibile"
+
+msgid "Various"
+msgstr "Varie"
+
+msgid "Seasons"
+msgstr "Stagioni"
+
+msgid "Episodes"
+msgstr "Episodi"
+
+msgid "Season"
+msgstr "Stagione"
+
+msgid "female"
+msgstr "Femminile"
+
+msgid "male"
+msgstr "Maschile"
+
+msgid "divers"
+msgstr "Diverso"
+
+msgid "not specified"
+msgstr "Non specificato"
+
+msgid "OK"
+msgstr "Ok"
+
+msgid "Cancel"
+msgstr "Annullare"
+
+msgid "Language:"
+msgstr "Lingua:"
+
+msgid "Skip to movie details for single result:"
+msgstr "Mostrare dettagli film su riscontro singolo:"
+
+msgid "Yellow key for TMDB infos in EPGs:"
+msgstr "Tasto giallo per info TMDB in EPG:"
+
+msgid "Cover resolution:"
+msgstr "Risoluzione cover:"
+
+msgid "Backdrop resolution:"
+msgstr "Risoluzione sfondi:"
+
+msgid "Player for trailers:"
+msgstr "Player per trailers:"
+
+msgid "Overview"
+msgstr "Panoramica"
+
+msgid "Details"
+msgstr "Dettagli"
+
+msgid "Edit search"
+msgstr "Modificare ricerca"
+
+msgid "more ..."
+msgstr "Altro ..."
+
+msgid "Show details"
+msgstr "Mostrare dettagli"
+
+msgid "Exit"
+msgstr "Uscire"
+
+msgid "Up"
+msgstr "Su"
+
+msgid "Down"
+msgstr "Giù"
+
+msgid "Details down"
+msgstr "Dettagli giù"
+
+msgid "Details up"
+msgstr "Dettagli su"
+
+msgid "Setup"
+msgstr "Impostazioni"
+
+msgid "Current movies in cinemas"
+msgstr "Film attualmente nei cinema"
+
+msgid "No search string specified."
+msgstr "Stringa di ricerca non specificata."
+
+msgid "Looking up: %s ..."
+msgstr "Ricerca: %s..."
+
+msgid "page"
+msgstr "Pagina"
+
+msgid "No results for: %s"
+msgstr "Nessun risultato per: %s"
+
+msgid "Upcoming movies"
+msgstr "Film in arrivo"
+
+msgid "Popular movies"
+msgstr "Film popolari"
+
+msgid "Similar movies"
+msgstr "Film simili"
+
+msgid "Recommendations"
+msgstr "Raccomandazioni"
+
+msgid "Best rated movies"
+msgstr "Film più votati"
+
+msgid "TMDB categories"
+msgstr "Categorie TMDB"
+
+msgid "Please select a category"
+msgstr "Selezionare una categoria"
+
+msgid "Search for Movie:"
+msgstr "Ricerca film:"
+
+msgid "Movie Details"
+msgstr "Dettagli film"
+
+msgid "Genre:"
+msgstr "Genere:"
+
+msgid "Votes:"
+msgstr "Voti:"
+
+msgid "Runtime:"
+msgstr "Durata:"
+
+msgid "Year:"
+msgstr "Anno:"
+
+msgid "Countries:"
+msgstr "Nazioni:"
+
+msgid "Director:"
+msgstr "Regista:"
+
+msgid "Author:"
+msgstr "Autore:"
+
+msgid "Studio:"
+msgstr "Studio:"
+
+msgid "Crew"
+msgstr "Team"
+
+msgid "Selection up"
+msgstr "Selezione su"
+
+msgid "Selection down"
+msgstr "Selezione giù"
+
+msgid "Page up"
+msgstr "Pagina su"
+
+msgid "Page down"
+msgstr "Pagina giù"
+
+msgid "Search"
+msgstr "Cercare"
+
+msgid "Videos"
+msgstr "Video"
+
+msgid "No search provider registered."
+msgstr "Nessun provider di ricerca registrato."
+
+msgid "TMDB videos"
+msgstr "Video TMDB"
+
+msgid "Please select a video"
+msgstr "Selezionare un video"
+
+msgid "Person Details"
+msgstr "Dettagli persona"
+
+msgid "Popularity"
+msgstr "Popolarità"
+
+msgid "Known for:"
+msgstr "Noto per:"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Series"
+msgstr "Serie"
+
+msgid "Person"
+msgstr "Persona"
+
+msgid "min"
+msgstr "min"
+
+msgid "TMDBCockpit"
+msgstr "TMDBCockpit"
+
+msgid "Access TMDB movie infos"
+msgstr "Accesso a informazioni film TMDB"

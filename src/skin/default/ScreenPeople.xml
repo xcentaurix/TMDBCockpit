@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<screen name="ScreenPeople" position="0,0" size="1920,1080" title="TMDB - The Movie Database">
+	<eLabel backgroundColor="black" position="0,0" size="1920,1080" zPosition="-2"/>
+	<widget name="backdrop" position="0,0" scale="1" size="1920,1080" zPosition="-1"/>
+	<widget font="Bold;32" noWrap="1" position="20,30" render="Label" size="1880,43" source="Title" transparent="1"/>
+	<widget font="Regular;32" foregroundColor="#00fff000" name="searchinfo" position="30,90" size="1860,40" transparent="1"/>
+	<widget font="Regular;28" itemHeight="40" position="30,150" render="Listbox" scrollbarMode="showOnDemand" size="1350,800" source="list" transparent="1">
+		<convert type="StringList"/>
+	</widget>
+	<widget alphatest="blend" name="cover" position="1410,150" scale="1" size="480,720"/>
+	<widget addon="ColorButtonsSequence" alignment="left" backgroundColor="#00000000" connection="key_red,key_green,key_yellow,key_blue" font="Regular;33" position="224,1030" size="1690,42" spacing="10" textColors="key_red:#00ff0808,key_green:#0004c81b,key_yellow:#00edf506,key_blue:#00077cf5" transparent="1" zPosition="10"/>
+	<ePixmap alphatest="blend" backgroundColor="#00000000" pixmap="buttons/key_menu.png" position="30,1030" size="52,38" transparent="1" zPosition="2"/>
+	<ePixmap alphatest="blend" backgroundColor="#00000000" pixmap="buttons/key_help.png" position="82,1030" size="52,38" transparent="1" zPosition="2"/>
+</screen>

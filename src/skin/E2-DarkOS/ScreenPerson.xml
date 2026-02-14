@@ -1,0 +1,8 @@
+<screen name="ScreenPerson" position="0,0" size="1920,1080">
+    <panel name="Screen_Window_Full_Backdrop" />
+    <panel position="20,20" size="e-40,e">
+        <widget font="Bold;28" name="searchinfo" position="5,65" size="1860,40" transparent="1"/>
+        <widget name="cover" position="e-485,115" scale="1" size="480,720" cornerRadius="10"/>
+	    <widget font="Regular;24" name="fulldescription" position="5,115" size="e-505,800" transparent="1"/>
+	</panel>
+</screen>
