@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<screen name="ScreenPeople" position="0,0" size="1920,1080" title="TMDB - The Movie Database">
+	<eLabel backgroundColor="black" position="0,0" size="1920,1080" zPosition="-2"/>
+	<widget name="backdrop" position="0,0" scale="1" size="1920,1080" zPosition="-1"/>
+	<widget font="Bold;32" noWrap="1" position="20,30" render="Label" size="1880,43" source="Title" transparent="1"/>
+	<widget font="Regular;32" foregroundColor="#00fff000" name="searchinfo" position="30,90" size="1860,40" transparent="1"/>
+	<widget font="Regular;28" itemHeight="40" position="30,150" render="Listbox" scrollbarMode="showOnDemand" size="1350,800" source="list" transparent="1">
+		<convert type="StringList"/>
+	</widget>
+	<widget alphatest="blend" name="cover" position="1410,150" scale="1" size="480,720"/>
+	<widget font="Regular;26" halign="center" name="key_red" position="0,1030" size="480,35" transparent="1"/>
+	<widget font="Regular;26" halign="center" name="key_green" position="480,1030" size="480,35" transparent="1"/>
+	<widget font="Regular;26" halign="center" name="key_yellow" position="960,1030" size="480,35" transparent="1"/>
+	<widget font="Regular;26" halign="center" name="key_blue" position="1440,1030" size="480,35" transparent="1"/>
+	<eLabel backgroundColor="#ff0000" position="0,1070" size="480,10"/>
+	<eLabel backgroundColor="#669900" position="480,1070" size="480,10"/>
+	<eLabel backgroundColor="#e5b243" position="960,1070" size="480,10"/>
+	<eLabel backgroundColor="#3366cc" position="1440,1070" size="480,10"/>
+</screen>

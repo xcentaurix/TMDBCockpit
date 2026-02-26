@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TMDBCockpit\n"
+"POT-Creation-Date: 2023-05-15 11:57+0200\n"
+"PO-Revision-Date: 2023-05-15 12:01+0200\n"
+"Last-Translator: xcentaurix\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../src\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "License"
+msgstr "Licentie"
+
+msgid "End"
+msgstr "Einde"
+
+msgid "Stop playback"
+msgstr "Stop afspelen"
+
+msgid "Skip forward"
+msgstr "Spring vooruit"
+
+msgid "Skip backward"
+msgstr "Spring terug"
+
+msgid "EPG Info"
+msgstr "EPG Info"
+
+msgid "Do you want to resume playback at position: %d:%02d:%02d?"
+msgstr "Wilt u het afspelen hervatten op posistie: %d:%02d:%02d?"
+
+msgid "Cancel"
+msgstr "Afbreken"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Defaults"
+msgstr "Standaard waarden"
+
+msgid "Really close without saving settings?"
+msgstr "Afsluiten zonder op te slaan?"
+
+msgid "Setup"
+msgstr "Instellingen"
+
+msgid "Loading default settings will overwrite all settings, really load them?"
+msgstr "Het laden van stadaard waarden overschrijft alle instellingen, doorgaan?"
+
+msgid "Some changes require a GUI restart"
+msgstr "Enkele aanpassingen vereisen een GUI herstart"
+
+msgid "Restart GUI now?"
+msgstr "GUI herstarten?"
+
+msgid "Bookmarks"
+msgstr "Bookmarks"
+
+msgid "Select directory"
+msgstr "Selecteer directory"
+
+msgid "Path does not exist"
+msgstr "Path bestaat niet"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Hide"
+msgstr "Verbergen"
+
+msgid "Cancelling, please wait"
+msgstr "Afbreken, wachten aub"
+
+msgid "Processing"
+msgstr "Verwerken"
+
+msgid "of"
+msgstr "of"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "Cancelled"
+msgstr "Afgebroken"
+
+msgid "Please wait"
+msgstr "Wachten aub"
+
+msgid "min"
+msgstr "min"
+
+msgid "TMDB Infos ..."
+msgstr "TMDB Info ..."
+
+msgid "Various"
+msgstr "Verschilende"
+
+msgid "Seasons"
+msgstr "Seizoenen"
+
+msgid "Episodes"
+msgstr "Afleveringen"
+
+msgid "Season"
+msgstr "Seizoen"
+
+msgid "female"
+msgstr "vrouwelijk"
+
+msgid "male"
+msgstr "mannelijk"
+
+msgid "divers"
+msgstr "divers"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Language:"
+msgstr "Taal"
+
+msgid "Skip to movie details for single result:"
+msgstr "Ga naar film details voor enkel resultaat:"
+
+msgid "Yellow key for TMDB infos in EPGs:"
+msgstr "Gele toets voor TMBD info in de EPG:"
+
+msgid "Cover resolution:"
+msgstr "Voorkant resolutie"
+
+msgid "Backdrop resolution:"
+msgstr "Achtergrond resolutie"
+
+msgid "Overview"
+msgstr "Overzicht"
+
+msgid "Exit"
+msgstr "Verlaten"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Edit search"
+msgstr "Aanpassen zoeken"
+
+msgid "more ..."
+msgstr "meer ..."
+
+msgid "Show details"
+msgstr "Toon details"
+
+msgid "Details down"
+msgstr "Details omhoog"
+
+msgid "Details up"
+msgstr "Details omlaag"
+
+msgid "Current movies in cinemas"
+msgstr "Films die draaien in de bioscopen"
+
+msgid "No search string specified."
+msgstr "Geen zoek tekst opgegeven"
+
+msgid "Looking up: %s ..."
+msgstr "Looking up: %s ..."
+
+msgid "page"
+msgstr "pagina"
+
+msgid "No results for: %s"
+msgstr "Geen resultaat voor: %s"
+
+msgid "Upcoming movies"
+msgstr "Aankomde films"
+
+msgid "Popular movies"
+msgstr "Populiere films"
+
+msgid "Similar movies"
+msgstr "Gelijkwaardige films"
+
+msgid "Recommendations"
+msgstr "Aanbevolen"
+
+msgid "Best rated movies"
+msgstr "Beste beoordeelde films"
+
+msgid "Search for Movie:"
+msgstr "Zoek voor film:"
+
+msgid "Movie Details"
+msgstr "Film details"
+
+msgid "Genre:"
+msgstr "Genre:"
+
+msgid "Votes:"
+msgstr "Stemmen:"
+
+msgid "Runtime:"
+msgstr "Lengte:"
+
+msgid "Year:"
+msgstr "Jaar:"
+
+msgid "Countries:"
+msgstr "Landen:"
+
+msgid "Director:"
+msgstr ""
+
+msgid "Author:"
+msgstr "Auteur:"
+
+msgid "Studio:"
+msgstr "Studio:"
+
+msgid "Crew"
+msgstr "Ploeg"
+
+msgid "Selection up"
+msgstr "Keuze omhoog"
+
+msgid "Selection down"
+msgstr "Kleuze omlaag"
+
+msgid "Page up"
+msgstr "Pagina omhoog"
+
+msgid "Page down"
+msgstr "Pagina omlaag"
+
+msgid "Search"
+msgstr "Zoek"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Save movie description"
+msgstr "Sla film beschrijving op"
+
+msgid "Delete movie EIT file"
+msgstr "Verwijder film EIT file"
+
+msgid "Save movie cover"
+msgstr "Sla film omslag op"
+
+msgid "Save movie backdrop"
+msgstr "Sla film achtergrond op"
+
+msgid "File operation results:"
+msgstr "Resultaat van bestand bewerking"
+
+msgid "Cover saved."
+msgstr "Onslag opgeslagen"
+
+msgid "No cover available"
+msgstr "Geen omslag beschikbaar"
+
+msgid "Backdrop saved."
+msgstr "Achtergrond opgeslagen"
+
+msgid "No backdrop available"
+msgstr "Geen achtergrond beschikbaar"
+
+msgid "Movie description saved."
+msgstr "Omschrijving film opgeslagen."
+
+msgid "No movie description available"
+msgstr "Geen film omschrijving beschikbaar"
+
+msgid "EIT file deleted."
+msgstr "EIT bestand verwijderd"
+
+msgid "No EIT file available"
+msgstr "Geen EIT bestand beschikbaar"
+
+msgid "No search provider registered."
+msgstr "Geen zoek leverancier geregistreerd"
+
+msgid "TMDB videos"
+msgstr "TMDM films"
+
+msgid "Please select a video"
+msgstr "Selecteer een film aub"
+
+msgid "Person Details"
+msgstr "Persoonlijke gegevens"
+
+msgid "Popularity"
+msgstr "Populariteit"
+
+msgid "Known for:"
+msgstr "Bekend van:"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Series"
+msgstr "Series"
+
+msgid "Person"
+msgstr "Persoon"
+
+msgid "TMDBCockpit"
+msgstr "TMDBCocpit"
+
+msgid "Access TMDB movie infos"
+msgstr "Benader TMDB film informatie"
