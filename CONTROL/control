@@ -1,0 +1,6 @@
+Description: TMDBCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-tmdbcockpit
+Version: 1.0.14
+Architecture: all
+Depends: python3-requests, python3-yt-dlp, enigma2-plugin-skincomponents-e2darkosaddon
