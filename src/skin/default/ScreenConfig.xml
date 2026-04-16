@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<screen flags="wfNoFrame" name="ScreenConfig" position="0,0" size="1200,1080" title="TMDBCockpit Settings">
+	<widget font="Bold;32" noWrap="1" position="20,30" render="Label" size="1160,43" source="Title" transparent="1"/>
+	<widget enableWrapAround="1" name="config" position="20,120" scrollbarMode="showOnDemand" size="1160,500" transparent="1"/>
+	<widget font="Regular;26" halign="center" name="key_red" position="0,1030" size="300,35" transparent="1"/>
+	<widget font="Regular;26" halign="center" name="key_green" position="300,1030" size="300,35" transparent="1"/>
+	<eLabel backgroundColor="#ff0000" position="0,1070" size="300,10"/>
+	<eLabel backgroundColor="#669900" position="300,1070" size="300,10"/>
+	<eLabel backgroundColor="#e5b243" position="600,1070" size="300,10"/>
+	<eLabel backgroundColor="#3366cc" position="900,1070" size="300,10"/>
+</screen>

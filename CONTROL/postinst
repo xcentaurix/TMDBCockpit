@@ -1,0 +1,10 @@
+#!/bin/sh
+echo "***********************************"
+echo "*          TMDBCockpit            *"
+echo "*              by                 *"
+echo "*          xcentaurix             *"
+echo "***********************************"
+echo ""
+echo "Plugin installed successfully."
+echo "Please restart Enigma2 now!"
+exit 0

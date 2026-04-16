@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<screen backgroundColor="transparent" flags="wfNoBorder" name="ScreenMain" position="fill">
+	<panel name="Screen_Window_Full_Backdrop"/>
+	<panel position="20,20" size="e-40,e">
+		<widget font="Bold;28" name="searchinfo" position="5,65" size="e,40" transparent="1"/>
+		<widget cornerRadius="10" name="cover" position="e-485,115" scale="1" size="480,720"/>
+		<widget font="Regular;24" itemCornerRadius="6" itemHeight="40" position="5,115" render="Listbox" scrollbarMode="showOnDemand" size="e-505,800" source="list" transparent="1">
+			<convert type="StringList"/>
+		</widget>
+		<ePixmap alphatest="blend" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/TMDBCockpit/skin/images/tmdb.png" position="e-485+65,880" scale="1" size="350,30"/>
+	</panel>
+</screen>
